@@ -1,0 +1,64 @@
+Quiz answers 👇
+
+📝What is the most common way blockchains communicate with each other today?
+✅ Answer: B
+
+📝What happens when messages are trapped in 1-to-1 routes in cross-chain messaging?
+✅Answer: C
+
+📝Which of the following is a challenge of cross-chain messaging?
+✅Answer: B
+
+📝What is Polymer’s approach to L2  L2 interoperability?
+✅Answer: C
+
+📝Why is adding a new blockchain to a cross-chain messaging network cumbersome?
+✅Answer: A
+
+📝Why is messaging often necessary for L1-to-L1 communication but not needed for L2s?
+✅Answer: B
+
+📝What makes L2 rollup interoperability different from L1 interoperability?
+✅Answer: A
+
+📝What is one drawback of relying on cross-chain messaging for interoperability?
+✅Answer: A
+
+📝What problem arises when rollups communicate via a shared outbox or endpoint contract?
+✅Answer: D
+
+📝How does state proving improve blockchain interoperability?
+✅Answer: A
+
+📝What is a major security risk associated with cross-chain messaging?
+✅Answer: C
+
+📝What is the key drawback of message-based interoperability compared to state proofs?
+✅Answer: A
+
+📝How do state proofs increase efficiency in rollup interoperability?
+✅Answer: D
+
+📝Why do cross-chain bridges create security vulnerabilities?
+✅Answer: D
+
+📝What is the primary purpose of blockchain interoperability?
+✅Answer: A
+
+📝Why is cross-chain messaging laborious for developers?
+✅Answer: D
+
+📝How does Polymer improve rollup-to-rollup interoperability?
+✅Answer: C
+
+📝What is the key takeaway from Polymer’s approach to interoperability?
+✅Answer: D
+
+📝Why do L2s offer a more scalable interoperability model?
+✅Answer: D
+
+📝How do most current interoperability solutions handle blockchain communication?
+✅Answer: C
+
+📝Why is interoperability between L1 blockchains inherently more difficult than L2 interoperability?
+✅Answer: A
