@@ -3,12 +3,12 @@ Polymer serves as the transport hub between different blockchain networks at the
 
 
 1. Join the Discord
-🔗 discord.gg/polymerlabs
+🔗 [discord.gg/polymerlabs](https://discord.gg/polymerlabs)
 
 ## Chapter 1 Quiz is LIVE!
 - Complete all quiz to earn the @Freshman role.
-- Quiz answers 👇
-- https://github.com/Gmhax/Polymerlabs-Quiz/blob/main/Chapter%201%20Quiz%20is%20LIVE!
+- [Quiz answers](https://github.com/Gmhax/Polymerlabs-Quiz/blob/main/Chapter%201%20Quiz%20is%20LIVE!)
+ 
 
 
 ## Chapter 2 Quiz is LIVE!
