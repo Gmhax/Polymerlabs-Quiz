@@ -281,95 +281,95 @@ Quiz answers 👇
 
 - WHAT ✅
 
-✅ - 1. What analogy is used to explain the future scale of rollups?
+✅ 1. What analogy is used to explain the future scale of rollups?
 Ans: D
 
-✅ - 2. What is a key reason why existing cross-chain bridges will not be sufficient for rollup interoperability?
+✅ 2. What is a key reason why existing cross-chain bridges will not be sufficient for rollup interoperability?
 Ans: C
 
-✅ - 3. What is a 'cross-chain proof'?
+✅ 3. What is a 'cross-chain proof'?
 Ans: B
 
-✅ - 4. What is one major inefficiency of using message passing for interoperability?
+✅ 4. What is one major inefficiency of using message passing for interoperability?
 Ans: D
 
-✅ - 5. What is the advantage of using state proofs instead of message passing for interoperability?
+✅ 5. What is the advantage of using state proofs instead of message passing for interoperability?
 Ans: C
 
-✅ - 6. What is the purpose of using cross-chain proofs in blockchain communication?
+✅ 6. What is the purpose of using cross-chain proofs in blockchain communication?
 Ans: D
 
-✅ - 7. What is the significance of "proving state" in blockchain communication?
+✅ 7. What is the significance of "proving state" in blockchain communication?
 Ans: B
 
-✅ - 8. What is  Polymer Labs ultimate vision for the blockchain ecosystem?
+✅ 8. What is  Polymer Labs ultimate vision for the blockchain ecosystem?
 Ans: D
 
-✅ - 9. What is the key problem with today's interoperability infrastructure?
+✅ 9. What is the key problem with today's interoperability infrastructure?
 Ans: D
 
-✅ - 10. What is the primary reason Layer 1 (L1) blockchains require message passing for interoperability?
+✅ 10. What is the primary reason Layer 1 (L1) blockchains require message passing for interoperability?
 Ans: A
 
-✅ - 11 . What does the term “state streaming” refer to in Polymer’s approach?
+✅ 11 . What does the term “state streaming” refer to in Polymer’s approach?
 Ans: B
 
-✅ - 12 . What does Polymer aim to provide in the rollup ecosystem?
+✅ 12 . What does Polymer aim to provide in the rollup ecosystem?
 Ans: C
 
-✅ - 13. What does the future of rollups look like with Polymer Labs?
+✅ 13. What does the future of rollups look like with Polymer Labs?
 Ans: B
 
-✅ - 14. What will happen if rollups do not have a scalable interoperability infrastructure?
+✅ 14. What will happen if rollups do not have a scalable interoperability infrastructure?
 Ans: D
 
 - WHY ✅
 
-✅ - 15. Why is Polymer able to expand to rollups so quickly?
+✅ 15. Why is Polymer able to expand to rollups so quickly?
 Ans: B
 
-✅ - 16. Why is the future of rollup interoperability similar to the history of the internet?
+✅ 16. Why is the future of rollup interoperability similar to the history of the internet?
 Ans: A
 
-✅ - 17. Why is Polymer poised to dominate the rollup market?
+✅ 17. Why is Polymer poised to dominate the rollup market?
 Ans: C
 
-✅ - 18. Why is cross-chain messaging a difficult method for interoperability?
+✅ 18. Why is cross-chain messaging a difficult method for interoperability?
 Ans: B
 
-✅ - 19. Why is bridging rollups directly a difficult problem to solve?
+✅ 19. Why is bridging rollups directly a difficult problem to solve?
 Ans: A
 
-✅ - 20. Why is Polymer more cost-effective than other interoperability protocols that have expanded to rollups?
+✅ 20. Why is Polymer more cost-effective than other interoperability protocols that have expanded to rollups?
 Ans: B
 
-✅ - 21. Why will the number of rollups continue to grow exponentially?
+✅ 21. Why will the number of rollups continue to grow exponentially?
 Ans: A
 
 - HOW ✅
 
-✅ - 22. How fast can Polymer expand to a new rollup?
+✅ 22. How fast can Polymer expand to a new rollup?
 Ans: A
 
-✅ - 23. How fast is cross-rollup communication using Polymer Labs solution?
+✅ 23. How fast is cross-rollup communication using Polymer Labs solution?
 Ans: A
 
-✅ - 24 - How long does it take a dApp to integrate with Polymer?
+✅ 24 - How long does it take a dApp to integrate with Polymer?
 Ans : A
 
-✅ - 25. How does Polymer ensure that different rollups remain interoperable despite their differences?
+✅ 25. How does Polymer ensure that different rollups remain interoperable despite their differences?
 Ans: B
 
-✅ - 26. How does Polymer solve the challenge of rollup interoperability?
+✅ 26. How does Polymer solve the challenge of rollup interoperability?
 Ans: B
 
-✅ - 27. How does proving state improve developer experience?
+✅ 27. How does proving state improve developer experience?
 Ans: C
 
-✅ - 28. How does state proofing improve interoperability compared to cross-chain messaging?
+✅ 28. How does state proofing improve interoperability compared to cross-chain messaging?
 Ans: A
 
-✅ - 29. How does Polymer Labs aim to enhance scalability for blockchain applications?
+✅ 29. How does Polymer Labs aim to enhance scalability for blockchain applications?
 Ans: B
 
 
